@@ -4,4 +4,4 @@ Smart Gesture and Voice PC_Controller is an AI-powered interface that allows use
 
 ## 1. Organize Your Project Directory
 Structure your project like this:
-![image](https://github.com/user-attachments/assets/423210f7-acd7-4d32-b257-b08e3a99a2f3)
+![image](https://github.com/user-attachments/assets/3e9b2df8-7156-4919-9177-4044d86a35af)
