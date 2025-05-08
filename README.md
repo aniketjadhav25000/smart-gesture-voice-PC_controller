@@ -20,7 +20,12 @@ numpy
 
 ---
 
+## 4. Push to GitHub
+### (a) Create a New Repository
+Go to GitHub → Name it (e.g., smart-gesture-voice-controller) → Create repository.
 
+### (b) Push Code
+In your terminal:
 
 ## 🚀 Getting Started
 
