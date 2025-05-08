@@ -10,7 +10,7 @@ Structure your project like this:
 
 ---
 
-## 3. **Create a `requirements.txt`**
+## 2. **Create a `requirements.txt`**
 Add the libraries your project uses:
 
 opencv-python
@@ -22,12 +22,21 @@ numpy
 
 ---
 
-## 4. Push to GitHub
+## 3. Push to GitHub
 ### (a) Create a New Repository
 Go to GitHub → Name it (e.g., smart-gesture-voice-controller) → Create repository.
 
 ### (b) Push Code
 In your terminal:
+
+cd path/to/your/project
+git init
+git remote add origin https://github.com/your-username/smart-gesture-voice-controller.git
+git add .
+git commit -m "Initial commit: gesture & voice control project"
+git branch -M main
+git push -u origin main
+
 
 ---
 
