@@ -25,6 +25,8 @@ Structure your project like this:
 - Numpy, threading, Pynput, subprocess, etc.
 
 
+
+
 ## Screenshots :
 
 ![image](https://github.com/user-attachments/assets/9301382c-b837-4a4c-9f94-ca2badd4304b)
