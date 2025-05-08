@@ -8,6 +8,28 @@ Structure your project like this:
 ![image](https://github.com/user-attachments/assets/3e9b2df8-7156-4919-9177-4044d86a35af)
 
 
+#### 3. **Create a `requirements.txt`**
+Add the libraries your project uses:
+
+```txt
+opencv-python
+mediapipe
+pyautogui
+pynput
+speechrecognition
+numpy
+
+
+
+
+## 🚀 Getting Started
+
+1. Clone the repository:
+```bash
+git clone https://github.com/your-username/smart-gesture-voice-controller.git
+cd smart-gesture-voice-controller
+
+
 ## ✨ Features
 
 - Gesture-based **mouse control** using index and thumb detection.
@@ -43,24 +65,3 @@ Structure your project like this:
 
 
 
-
-#### 3. **Create a `requirements.txt`**
-Add the libraries your project uses:
-
-```txt
-opencv-python
-mediapipe
-pyautogui
-pynput
-speechrecognition
-numpy
-
-
-
-
-## 🚀 Getting Started
-
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/smart-gesture-voice-controller.git
-cd smart-gesture-voice-controller
