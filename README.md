@@ -18,7 +18,8 @@ pynput
 speechrecognition
 numpy
 
-" " 
+---
+
 
 
 ## 🚀 Getting Started
