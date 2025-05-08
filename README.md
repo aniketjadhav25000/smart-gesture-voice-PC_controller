@@ -27,6 +27,8 @@ Go to GitHub → Name it (e.g., smart-gesture-voice-controller) → Create repos
 ### (b) Push Code
 In your terminal:
 
+---
+
 ## 🚀 Getting Started
 
 1. Clone the repository:
