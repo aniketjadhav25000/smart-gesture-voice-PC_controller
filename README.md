@@ -44,6 +44,17 @@ Structure your project like this:
 
 
 
+#### 3. **Create a `requirements.txt`**
+Add the libraries your project uses:
+
+```txt
+opencv-python
+mediapipe
+pyautogui
+pynput
+speechrecognition
+numpy
+
 
 
 
