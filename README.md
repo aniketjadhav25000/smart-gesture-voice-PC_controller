@@ -8,7 +8,7 @@ Structure your project like this:
 ![image](https://github.com/user-attachments/assets/3e9b2df8-7156-4919-9177-4044d86a35af)
 
 
-### 3. **Create a `requirements.txt`**
+## 3. **Create a `requirements.txt`**
 Add the libraries your project uses:
 
 ```txt
