@@ -8,44 +8,26 @@ Structure your project like this:
 ![image](https://github.com/user-attachments/assets/3e9b2df8-7156-4919-9177-4044d86a35af)
 
 
----
-
-## 2. **Create a `requirements.txt`**
-Add the libraries your project uses:
-
-opencv-python
-mediapipe
-pyautogui
-pynput
-speechrecognition
-numpy
-
----
-
-## 3. Push to GitHub
-### (a) Create a New Repository
-Go to GitHub → Name it (e.g., smart-gesture-voice-controller) → Create repository.
-
-### (b) Push Code
-In your terminal:
-
-- cd path/to/your/project
-- git init
-- git remote add origin https://github.com/your-username/smart-gesture-voice-controller.git
-- git add .
-- git commit -m "Initial commit: gesture & voice control project"
-- git branch -M main
-- git push -u origin main
+--- 
 
 
----
+# Steps to Run the Project
+## 1. Clone or Download the Project
+If it's on GitHub, clone it:
 
-## 🚀 Getting Started
+git clone https://github.com/your-username/smart-gesture-voice-PC_controller.git
+cd smart-gesture-voice-PC_controller
 
-1. Clone the repository:
 
-git clone https://github.com/your-username/smart-gesture-voice-controller.git
-cd smart-gesture-voice-controller
+## 2. Install Required Dependencies
+Make sure requirements.txt is present, then run:
+
+- pip install -r requirements.txt
+
+## 3. Run the Project
+Use this command to start the main interface:
+
+- python main.py
 
 
 ## ✨ Features
