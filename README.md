@@ -15,7 +15,7 @@ Structure your project like this:
 ## 1. Clone or Download the Project
 If it's on GitHub, clone it:
 
-git clone https://github.com/your-username/smart-gesture-voice-PC_controller.git
+git clone https://github.com/aniketjadhav25000/smart-gesture-voice-PC_controller.git
 cd smart-gesture-voice-PC_controller
 
 
