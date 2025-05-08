@@ -29,13 +29,13 @@ Go to GitHub → Name it (e.g., smart-gesture-voice-controller) → Create repos
 ### (b) Push Code
 In your terminal:
 
-cd path/to/your/project
-git init
-git remote add origin https://github.com/your-username/smart-gesture-voice-controller.git
-git add .
-git commit -m "Initial commit: gesture & voice control project"
-git branch -M main
-git push -u origin main
+- cd path/to/your/project
+- git init
+- git remote add origin https://github.com/your-username/smart-gesture-voice-controller.git
+- git add .
+- git commit -m "Initial commit: gesture & voice control project"
+- git branch -M main
+- git push -u origin main
 
 
 ---
