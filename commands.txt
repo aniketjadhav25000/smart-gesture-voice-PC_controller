@@ -1,0 +1,32 @@
+commands : 
+
+1.System Navigation Controls
+
+"scroll up" - Scrolls the current page upward
+"scroll down" - Scrolls the current page downward
+
+2.Audio Controls
+
+"volume up" - Increases system volume
+"volume down" - Decreases system volume
+
+3.Application Controls
+
+"open browser" - Launches the default web browser
+"open notepad" - Opens the system text editor (Notepad on Windows, TextEdit on macOS, gedit on Linux)
+"close window" - Closes the currently active window (Alt+F4 or Command+W)
+
+4.Browser Specific Controls
+
+"search for [query]" - Opens Google search with your specified query
+"go back" - Navigates back in the browser (Alt+Left arrow)
+"refresh page" - Refreshes the current webpage (F5)
+
+5.Mode Switching Commands
+
+"switch to mouse" - Changes to mouse control mode
+"switch to keyboard" - Changes to keyboard control mode
+
+System Commands
+
+"screenshot" - Takes a screenshot and saves it to the Pictures folder
